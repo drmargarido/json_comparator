@@ -9,8 +9,6 @@ import (
 	"testing"
 )
 
-/* TODO: Implement big files tests */
-
 /* Example files */
 const (
 	InvalidPath     = "----------------"
