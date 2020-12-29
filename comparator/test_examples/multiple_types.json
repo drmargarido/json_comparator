@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "test jon",
+    "active": true,
+    "ratio": 2.10,
+    "friends": [1, 2, 3, 4],
+    "Bag": {
+      "Snacks": 1,
+      "Beers": 3
+    }
+  },
+  {
+    "id": 2,
+    "name": "test jon 2",
+    "active": false,
+    "ratio": 3.10,
+    "friends": [3, 4, 6, 7],
+    "Bag": {
+      "Snacks": 4,
+      "Swords": 2,
+      "Pots": 2
+    }
+  },
+  {
+    "id": 3,
+    "name": "test jon 3",
+    "active": true,
+    "ratio": 2.26,
+    "friends": [5, 7],
+    "Bag": {
+      "Snacks": 2,
+      "Arrows": 5
+    },
+    "Test": null
+  }
+]
+
